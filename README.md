@@ -1,36 +1,33 @@
-README - Tienda en Línea (HTML y CSS)
+README - Entrenamiento – Módulo 3 Semana 1 
+
+Sistema Interactivo de Mensajes
 
 Descripción del Proyecto
 
-Este proyecto consiste en una página web estática, diseñada con HTML5 y CSS3, representando una tienda en línea básica. Incluye las siguientes secciones:
+Este proyecto consiste en un sistema que valide la edad ingresada por un usuario y muestre mensajes dinámicos basados en esta información, gestionando errores, implementando validaciones y mostrando resultados de manera clara y organizada. Diiseñada con HTML5, JavaScript y CSS3, el proyecto consta de las siguiente secciones:
 
-Inicio: Bienvenida y presentación general.
+Titulo simple preguntando que edad posee el usuario
 
-Quiénes Somos: Breve descripción de la tienda.
+Formulario basico donde se pregunta al usuario nombre y edad
 
-Productos: Catálogo con al menos 10 productos.
-
-Contacto: Información para comunicarse con la tienda.
-
-El diseño es adaptativo, utilizando CSS Flexbox y Grid para organización del contenido.
+Boton para el ingreso de la informacion para la obtencion de un resultado
 
 
-Cómo ver la maqueta
 
-La maqueta se encuentra en la carpeta /mockups. Ábrela con Figma, Sketch, Adobe XD o la herramienta utilizada originalmente.
+El diseño es simple, utilizando CSS Flexbox para organización del contenido.
+
 
 
 Cómo usar el proyecto
 
 Clona el repositorio:
 
-git clone https://github.com/tu-usuario/tienda-en-linea.git
+git clone https://github.com/githubegg12/Modulo3semana1.git
+
 
 
 
 Navega a la carpeta del proyecto:
-
-cd tienda-en-linea
 
 Abre el archivo index.html en tu navegador favorito.
 
@@ -38,12 +35,10 @@ Abre el archivo index.html en tu navegador favorito.
 
 Estructura del repositorio
 
-/css
+/CSSfiles
   └─ styles.css
-/img
-  └─ (Imágenes del proyecto)
-/mockups
-  └─ (Archivos de diseño)
+/Javascript
+  └─ sistema_interactivo.js
 index.html
 README.md
 
@@ -51,12 +46,11 @@ README.md
 
 Información del Coder
 
-Nombre: __________________________
+Nombre: David Felipe Vargas Varela	
 
-Clan: ____________________________
+Clan: Sierra
 
-Correo: __________________________
+Correo: davidvargas1224@gmail.com
 
-Documento de identidad: ___________
+Documento de identidad: 1140893306
 
-Completa esta información antes de entregar el proyecto.
